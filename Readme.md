@@ -76,7 +76,7 @@ If you're the owner (via `OWNER_ID`), you get:
 
 <p align="center">
   <a href="https://railway.app/template/-jVtHa?referralCode=certified"><img src="https://img.shields.io/badge/Deploy--To--Railway-black?style=for-the-badge&logo=railway"/></a>
-  <a href="https://heroku.com/deploy?template=https://github.com/CertifiedCoders/StringGenerator"><img src="https://img.shields.io/badge/Deploy--To--Heroku-6762A6?style=for-the-badge&logo=heroku"/></a>
+  <a href="https://heroku.com/deploy?template=https://github.com/reetsingh886/StringGenerator"><img src="https://img.shields.io/badge/Deploy--To--Heroku-6762A6?style=for-the-badge&logo=heroku"/></a>
 </p>
 
 ---
